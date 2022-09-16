@@ -38,4 +38,3 @@ Our modifications to the file Nonlinear/set_data.F do not have to be included in
 ```
 since srflx is used while setting the vertical diffusive tracer fluxes (FC) for each time step (in Nonlinear/pre_step3d.F if SOLAR_SOURCE is defined).
 
-[![DOI](https://zenodo.org/badge/537367363.svg)](https://zenodo.org/badge/latestdoi/537367363)

@@ -1,5 +1,5 @@
 # ROMS_supermod
-ROMS code to add the supermod operator. 
+Modified ROMS code (svn Revision 1041) to add the supermod operator.
 
 CPP flag to activate supermod operator:
 ```sh

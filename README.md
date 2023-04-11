@@ -40,4 +40,6 @@ since srflx is used while setting the vertical diffusive tracer fluxes (FC) for 
 
 
 
-[![DOI](https://zenodo.org/badge/537367363.svg)](https://zenodo.org/badge/latestdoi/537367363)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7816872.svg)](https://doi.org/10.5281/zenodo.7816872)
